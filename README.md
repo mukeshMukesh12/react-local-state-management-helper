@@ -9,7 +9,7 @@ To use the package, follow these steps:
 1. Install the package via npm:
 
 ```shell
-npm react-local-state-management-helper
+npm i react-local-state-management-helper
 ```
 
 ## Documentation
@@ -47,5 +47,4 @@ export default ComponentName;
 ```
 
 ### Please Note in reducer's dispatch({ type: "SET_ISOPEN", payload: !state.isOpen })}
-## if state  is "isOpen" then type value is "SET_ISOPEN" , "SET_" is prefix and State in Uppercase
-## if state is "is-open"
+### if state  is "isOpen" then type value is "SET_ISOPEN" , "SET_" is prefix and State in Uppercase
