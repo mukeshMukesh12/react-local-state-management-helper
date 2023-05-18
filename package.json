@@ -1,0 +1,19 @@
+{
+  "name": "react-local-state-management-helper",
+  "version": "1.0.0",
+  "description": "`React Local State Management Helper` is a lightweight npm package for React that simplifies state management using the useReducer hook. It saves developers time by providing a convenient way to define reducers for multiple states without repetitive code. Additionally, it  eliminates the need to repeatedly define const [state, setState] = useState(\"initial value\"); for multiple state variables. With `React Local State Management Helper`, you can enhance your productivity and focus on building your application's logic rather than repetitive setup tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mukeshMukesh12/react-local-state-management-helper.git"
+  },
+  "author": "Mukesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukeshMukesh12/react-local-state-management-helper/issues"
+  },
+  "homepage": "https://github.com/mukeshMukesh12/react-local-state-management-helper#readme"
+}
