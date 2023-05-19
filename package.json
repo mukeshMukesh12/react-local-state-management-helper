@@ -10,6 +10,12 @@
     "type": "git",
     "url": "git+ssh://git@github.com/mukeshMukesh12/react-local-state-management-helper.git"
   },
+  "keywords": [
+    "react",
+    "state management",
+    "reducer",
+    "helper"
+  ],
   "author": "Mukesh Kumar",
   "license": "ISC",
   "bugs": {
